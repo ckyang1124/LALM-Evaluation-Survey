@@ -1,6 +1,6 @@
 # LALM_Evaluation_Survey
 
-## General Auditory Awareness and Processing 
+## 🔊 General Auditory Awareness and Processing 
 
 | Year        | Authors                         | Venue     | Paper |
 |--------------|------------------------------|----------|----------|
@@ -29,7 +29,7 @@
 |   2024 |      Li et al.                    |  SLT 2024    | [WHISMA: A Speech-LLM to Perform Zero-shot Spoken Language Understanding](https://arxiv.org/abs/2408.16423)  | 
 |    2024      |      Robinson et al.                    |  arXiv   | [NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics](https://arxiv.org/abs/2411.07186)   |
 
-## Knowledge and Reasoning
+## 🧠 Knowledge and Reasoning
 
 | Year        | Authors                         | Venue     | Paper |
 |--------------|------------------------------|----------|----------|
@@ -62,7 +62,7 @@
 |          |                          |     |   |
 |          |                          |     |   |
 
-## Dialogue-oriented Evaluation 
+## 🗣️ Dialogue-oriented Evaluation 
 
 | Year        | Authors                         | Venue     | Paper |
 |--------------|------------------------------|----------|----------|
@@ -96,7 +96,7 @@
 |          |                          |     |   |
 
 
-## Fairness, Safety, and Trustworthiness 
+## 🛡️ Fairness, Safety, and Trustworthiness 
 
 | Year        | Authors                         | Venue     | Paper |
 |--------------|------------------------------|----------|----------|
