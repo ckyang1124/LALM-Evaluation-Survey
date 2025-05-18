@@ -13,26 +13,21 @@
 |   2024       |      Yang et al.                    |  ACL 2024   |  [AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension](https://arxiv.org/abs/2402.07729) |
 |   2024       |      Wang et al.                    |  arXiv   | [AudioBench: A Universal Benchmark for Audio Large Language Models](https://arxiv.org/abs/2406.16020)  |
 |    2024      |       Week et al.                   |   ISMIR 2024     | [MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models](https://arxiv.org/abs/2408.01337) |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
-|          |                          |     |   |
+|   2025       |       Cao et al.                   |  arXiv   |  [FinAudio: A Benchmark for Audio Large Language Models in Financial Applications](https://arxiv.org/abs/2503.20990) |
+|   2024       |      Bu et al.                    |  arXiv   | [Roadmap towards Superhuman Speech Understanding using Large Language Models](https://arxiv.org/abs/2410.13268)  |
+|   2024 |       Chen et al.                    |  	EMNLP 2024   | [Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models](https://arxiv.org/abs/2409.18680)  |
+|    2025      |  Zang et al.                        |   arXiv  |  [Are you really listening? Boosting Perceptual Awareness in Music-QA Benchmarks](https://arxiv.org/abs/2504.00369)|
+|   2024       |    Zhao et al.                      |   arXiv  | [OpenMU: Your Swiss Army Knife for Music Understanding](https://arxiv.org/abs/2410.15573)  |
+|   2025       |    Wang et al.                      |     | arXiv  | [Advancing Singlish Understanding: Bridging the Gap with Datasets and Multimodal Models](https://arxiv.org/abs/2501.01034)
+|   2025       |        Xue et al.                  | arXiv    | [Audio-FLAN: A Preliminary Release](https://arxiv.org/abs/2502.16584)  | 
+|   2025       |              Wang et al.            |    arXiv  | [QualiSpeech: A Speech Quality Assessment Dataset with Natural Language Reasoning and Descriptions](https://arxiv.org/abs/2503.20290)|
+|  2025        |     Pandy et al.                     |  arXiv    | [SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction Fine-Tuning](https://arxiv.org/abs/2504.09081)  |
+|  2023        |     Gong et al.                     |   ICLR 2024   | [Listen, Think, and Understand](https://arxiv.org/abs/2305.10790)  |
+|  2022        |     Lipping et al.                     |  EUSIPCO 2022   | [Clotho-AQA: A Crowdsourced Dataset for Audio Question Answering](https://arxiv.org/abs/2204.09634)  |
+|   2024       |       Huang et al.                   |    SynData4GenAI 2024    | [SpeechCaps: Advancing Instruction-Based Universal Speech Models with Multi-Talker Speaking Style Captioning](https://arxiv.org/abs/2408.13891) |
+|   2024  |      Wei et al.                    |  arXiv   |  [ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction](https://arxiv.org/abs/2412.03075) |
+|   2024 |      Li et al.                    |  SLT 2024    | [WHISMA: A Speech-LLM to Perform Zero-shot Spoken Language Understanding](https://arxiv.org/abs/2408.16423)  | 
+|    2024      |      Robinson et al.                    |  arXiv   | [NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics](https://arxiv.org/abs/2411.07186)   |
 
 ## Knowledge and Reasoning
 
