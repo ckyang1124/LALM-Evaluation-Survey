@@ -33,7 +33,7 @@
 
 | Year        | Authors                         | Venue     | Paper |
 |--------------|------------------------------|----------|----------|
-|          |                          |     |   |
+|  2020    |   Nguyen et al.     |  Workshop@NeuRIPS 2020  |[The Zero Resource Speech Benchmark 2021: Metrics and baselines for unsupervised spoken language modeling](https://arxiv.org/abs/2011.11588)   |
 |          |                          |     |   |
 |          |                          |     |   |
 |          |                          |     |   |
