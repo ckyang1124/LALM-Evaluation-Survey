@@ -114,7 +114,7 @@ We will release the collection of the surveyed papers and actively maintain it t
 
 </details>
 
-## 🗣️ Dialogue-oriented Ability 
+### 🗣️ Dialogue-oriented Ability 
 
 <details>
 <summary>Conversation Ability </summary>
@@ -146,7 +146,7 @@ We will release the collection of the surveyed papers and actively maintain it t
 
 </details>
 
-## 🛡️ Fairness, Safety, and Trustworthiness 
+### 🛡️ Fairness, Safety, and Trustworthiness 
 
 <details>
 <summary>Fairness and Bias </summary>
