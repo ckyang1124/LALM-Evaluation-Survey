@@ -10,24 +10,6 @@ With advancements in large audio-language models (LALMs), which enhance large la
 
 We will release the collection of the surveyed papers and actively maintain it to support ongoing advancements in the field.
 
-## Table of Contents
-
-- [Taxonomy and Paper List](#taxonomy-and-paper-list)
-  - [🔊 General Auditory Awareness and Processing](#-general-auditory-awareness-and-processing)
-    - [Auditory Awareness](#auditory-awareness)
-    - [Auditory Processing](#auditory-processing)
-  - [🧠 Knowledge and Reasoning](#-knowledge-and-reasoning)
-    - [Linguistic Knowledge](#linguistic-knowledge)
-    - [World Knowledge Assessment](#world-knowledge-assessment)
-    - [Reasoning](#reasoning)
-  - [🗣️ Dialogue-oriented Ability](#️-dialogue-oriented-ability)
-    - [Conversation Ability](#conversation-ability)
-    - [Instruction Following](#instruction-following)
-  - [🛡️ Fairness, Safety, and Trustworthiness](#-fairness-safety-and-trustworthiness)
-    - [Fairness and Bias](#fairness-and-bias)
-    - [Safety](#safety)
-    - [Hallucination](#hallucination)
-- [How to Contribute](#how-to-contribute)
 
 
 ## Taxonomy and Paper List
