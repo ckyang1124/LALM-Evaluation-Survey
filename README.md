@@ -198,7 +198,7 @@ We’ll review your suggestion and update the list as soon as possible. Thank yo
 
 ## Citations
 
-If you find SAKURA helpful for your research, please consider to cite our paper.
+If you find this survey helpful for your research, please consider to cite our paper.
 
 ```bibtex
 @article{yang2025holisticevaluationlargeaudiolanguage,
