@@ -10,7 +10,8 @@ With advancements in large audio-language models (LALMs), which enhance large la
 
 We will release the collection of the surveyed papers and actively maintain it to support ongoing advancements in the field.
 
-
+## News
+- [2025/05/23] Our paper is now available on [arXiv](https://arxiv.org/abs/2505.15957)
 
 ## Taxonomy and Paper List
 
@@ -191,6 +192,22 @@ If you know of any interesting papers that aren’t listed yet, we welcome your 
 
 | Year        | Authors                         | Venue     | Paper |
 |--------------|------------------------------|----------|----------|
-|      2025    |        Yang et al.                  |   Interspeech 2025  |  [SAKURA: On the Multi-hop Reasoning of Large Audio-Language Models Based on Speech and Audio Information](https://arxiv.org/abs/2505.13237) |
+|      2025    |        Yang et al.                  |   Preprint  |  [Towards Holistic Evaluation of Large Audio-Language Models: A Comprehensive Survey](https://arxiv.org/abs/2505.15957) |
 
 We’ll review your suggestion and update the list as soon as possible. Thank you for helping us keep this resource up to date!
+
+## Citations
+
+If you find SAKURA helpful for your research, please consider to cite our paper.
+
+```bibtex
+@article{yang2025holisticevaluationlargeaudiolanguage,
+      title={Towards Holistic Evaluation of Large Audio-Language Models: A Comprehensive Survey}, 
+      author={Chih-Kai Yang and Neo S. Ho and Hung-yi Lee},
+      year={2025},
+      eprint={2505.15957},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2505.15957}, 
+}
+```
