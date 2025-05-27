@@ -141,7 +141,7 @@ We will release the collection of the surveyed papers and actively maintain it t
 |--------------|------------------------------|----------|----------|
 |      2024    |              Chen et al.            |   Preprint  | [VoiceBench: Benchmarking LLM-Based Voice Assistants](https://arxiv.org/abs/2410.17196)  |
 |      2025    |       Yan et al.                   |   Preprint  | [URO-Bench: A Comprehensive Benchmark for End-to-End Spoken Dialogue Models](https://arxiv.org/abs/2502.17810)  |
-|      2025    |       Lu et al.                   |  Interspeech 2025   | Speech-IFeval: Evaluating Instruction-Following and Quantifying Catastrophic Forgetting in Speech-Aware Language Models  |
+|      2025    |       Lu et al.                   |  Interspeech 2025   | [Speech-IFeval: Evaluating Instruction-Following and Quantifying Catastrophic Forgetting in Speech-Aware Language Models](https://arxiv.org/abs/2505.19037)  |
 |     2025     |       Jiang et al.                   |  Preprint   | [S2S-Arena, Evaluating Speech2Speech Protocols on Instruction Following with Paralinguistic Information](https://arxiv.org/abs/2503.05085)  |
 |  2025        |     Pandey et al.                     |  Preprint    | [SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction Fine-Tuning](https://arxiv.org/abs/2504.09081)  |
 
