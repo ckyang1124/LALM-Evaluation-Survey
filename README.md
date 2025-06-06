@@ -156,7 +156,7 @@ We will release the collection of the surveyed papers and actively maintain it t
 |--------------|------------------------------|----------|----------|
 |   2024       |        Lin et al.                  |  SLT 2024   | [Listen and Speak Fairly: A Study on Semantic Gender Bias in Speech Integrated Large Language Models](https://arxiv.org/abs/2407.06957)  |
 |   2024       |         Lin et al.                 |   SLT 2024  |  [Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models](https://arxiv.org/abs/2408.07665) |
-
+|   2025       |         Li et al.                 |   Preprint  |  [AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models](https://arxiv.org/abs/2505.16211) |
 </details>
 
 <details>
@@ -172,6 +172,9 @@ We will release the collection of the surveyed papers and actively maintain it t
 |    2025      |         Gupta et al.                 |  Preprint   | ["I am bad": Interpreting Stealthy, Universal and Robust Audio Jailbreaks in Audio-Language Models](https://arxiv.org/abs/2502.00718)  |
 |    2024      |         Hughes et al.                 |  Preprint   | [Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)  |
 |      2025    |       Yan et al.                   |   Preprint  | [URO-Bench: A Comprehensive Benchmark for End-to-End Spoken Dialogue Models](https://arxiv.org/abs/2502.17810)  |
+|   2025       |         Li et al.                 |   Preprint  |  [AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models](https://arxiv.org/abs/2505.16211) |
+|   2025       |         Song et al.                 |   Preprint  |  [Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models](https://arxiv.org/abs/2505.15406) |
+|   2025       |         Peng et al.                 |   Preprint  |  [JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](https://arxiv.org/abs/2505.17568) |
 
 </details>
 
@@ -183,6 +186,7 @@ We will release the collection of the surveyed papers and actively maintain it t
 |      2024    |       Kuan et al.                   |   Interspeech 2024  |  [Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models](https://arxiv.org/abs/2406.08402) |
 |     2024     |       Leng et al.                   |   Preprint  | [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/abs/2410.12787)  |
 |    2025      |       Kuan et al.                   |  ICASSP 2025   | [Can Large Audio-Language Models Truly Hear? Tackling Hallucinations with Multi-Task Assessment and Stepwise Audio Reasoning](https://arxiv.org/abs/2410.16130)  |
+|   2025       |         Li et al.                 |   Preprint  |  [AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models](https://arxiv.org/abs/2505.16211) |
 
 </details>
 
@@ -201,13 +205,10 @@ We’ll review your suggestion and update the list as soon as possible. Thank yo
 If you find this survey helpful for your research, please consider to cite our paper.
 
 ```bibtex
-@article{yang2025holisticevaluationlargeaudiolanguage,
-      title={Towards Holistic Evaluation of Large Audio-Language Models: A Comprehensive Survey}, 
-      author={Chih-Kai Yang and Neo S. Ho and Hung-yi Lee},
-      year={2025},
-      eprint={2505.15957},
-      archivePrefix={arXiv},
-      primaryClass={eess.AS},
-      url={https://arxiv.org/abs/2505.15957}, 
+@article{yang2025towards,
+  title={Towards holistic evaluation of large audio-language models: A comprehensive survey},
+  author={Yang, Chih-Kai and Ho, Neo S and Lee, Hung-yi},
+  journal={arXiv preprint arXiv:2505.15957},
+  year={2025}
 }
 ```
