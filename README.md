@@ -26,6 +26,8 @@ We will release the collection of the surveyed papers and actively maintain it t
 |   2023       |     Seyssel et al.                     |   EMNLP 2024 (Main)  |  [EmphAssess: a Prosodic Benchmark on Assessing Emphasis Transfer in Speech-to-Speech Models](https://arxiv.org/abs/2312.14069) |
 |   2025       |       Deshmukh et al.                   |  ICLR 2025   |  [ADIFF: Explaining audio difference using natural language](https://arxiv.org/abs/2502.04476) |
 |   2024       |      Bu et al.                    |  Preprint   | [Roadmap towards Superhuman Speech Understanding using Large Language Models](https://arxiv.org/abs/2410.13268)  |
+|   2025       |      Guo et al.                    |  Preprint   | [DEBATE: A Dataset for Disentangling Textual Ambiguity in Mandarin Through Speech](https://arxiv.org/abs/2506.07502)  |
+|   2025       |      Yosha et al.                    |  Preprint   | [StressTest: Can YOUR Speech LM Handle the Stress?](https://arxiv.org/abs/2505.22765)  |
 
 </details>
 
@@ -56,6 +58,11 @@ We will release the collection of the surveyed papers and actively maintain it t
 |   2024  |      Wei et al.                    |  Preprint   |  [ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction](https://arxiv.org/abs/2412.03075) |
 |   2024 |      Li et al.                    |  SLT 2024    | [WHISMA: A Speech-LLM to Perform Zero-shot Spoken Language Understanding](https://arxiv.org/abs/2408.16423)  | 
 |    2025      |      Robinson et al.                    |  Preprint   | [NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics](https://arxiv.org/abs/2411.07186)   |
+|    2025      |      Ma et al.                    |  ISMIR 2025   | [CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction Following](https://arxiv.org/abs/2506.12285)   |
+|    2025      |     Beyene et al.                    |  Preprint   | [mSTEB: Massively Multilingual Evaluation of LLMs on Speech and Text Tasks](https://arxiv.org/abs/2506.08400)   |
+|    2025      |     Wang et al.                    |  Preprint   | [MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark](https://arxiv.org/abs/2506.04779)   |
+|    2025      |     Hou et al.                    |  Preprint   | [SOVA-Bench: Benchmarking the Speech Conversation Ability for LLM-based Voice Assistant](https://arxiv.org/abs/2506.02457)   |
+|   2025       |      Ahia et al.                    |  Preprint   | [BLAB: Brutally Long Audio Bench](https://arxiv.org/abs/2505.03054)  |
 
 </details>
 
@@ -70,6 +77,7 @@ We will release the collection of the surveyed papers and actively maintain it t
 |     2024    |         Huang et al.                 |  ICASSP 2024   | [Zero Resource Code-Switched Speech Benchmark Using Speech Utterance Pairs for Multiple Spoken Languages](https://arxiv.org/abs/2310.03018)  |
 |    2023      |        Hassid et al.                  |   NeurIPS 2023  |  [Textually Pretrained Speech Language Models](https://arxiv.org/abs/2305.13009) |
 |    2023      |          Lavechin et al.                |  Interspeech 2023   |  [BabySLM: language-acquisition-friendly benchmark of self-supervised spoken language models](https://arxiv.org/abs/2306.01506) |
+|   2025       |      Fang et al.                    |  Preprint   | [S2SBench: A Benchmark for Quantifying Intelligence Degradation in Speech-to-Speech Large Language Models](https://arxiv.org/abs/2505.14438)  |
 
 </details>
 
@@ -88,6 +96,10 @@ We will release the collection of the surveyed papers and actively maintain it t
 |    2024      |       Weck et al.                   |   ISMIR 2024     | [MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models](https://arxiv.org/abs/2408.01337) |
 |    2025      |  Zang et al.                        |   Preprint  |  [Are you really listening? Boosting Perceptual Awareness in Music-QA Benchmarks](https://arxiv.org/abs/2504.00369)|
 |   2024       |    Zhao et al.                      |   Preprint  | [OpenMU: Your Swiss Army Knife for Music Understanding](https://arxiv.org/abs/2410.15573)  |
+|    2025      |     Wang et al.                    |  Preprint   | [MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark](https://arxiv.org/abs/2506.04779)   |
+|    2025      |     Hou et al.                    |  Preprint   | [SOVA-Bench: Benchmarking the Speech Conversation Ability for LLM-based Voice Assistant](https://arxiv.org/abs/2506.02457)   |
+|   2025       |      Fang et al.                    |  Preprint   | [S2SBench: A Benchmark for Quantifying Intelligence Degradation in Speech-to-Speech Large Language Models](https://arxiv.org/abs/2505.14438)  |
+|   2025       |      Ma et al.                    |  Preprint   | [MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix](https://arxiv.org/abs/2505.13032)  |
 
 </details>
 
@@ -112,6 +124,16 @@ We will release the collection of the surveyed papers and actively maintain it t
 |   2025       |       Huang et al.                   |    ICASSP 2025    | [SpeechCaps: Advancing Instruction-Based Universal Speech Models with Multi-Talker Speaking Style Captioning](https://arxiv.org/abs/2408.13891) |
 |     2025     |          Wang et al.                |   ICASSP 2025  |  [What Are They Doing? Joint Audio-Speech Co-Reasoning](https://arxiv.org/abs/2409.14526) |
 |   2025       |       Deshmukh et al.                   |  ICLR 2025   |  [ADIFF: Explaining audio difference using natural language](https://arxiv.org/abs/2502.04476) |
+|    2025      |     Wang et al.                    |  Preprint   | [MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark](https://arxiv.org/abs/2506.04779)   |
+|    2025      |     Hou et al.                    |  Preprint   | [SOVA-Bench: Benchmarking the Speech Conversation Ability for LLM-based Voice Assistant](https://arxiv.org/abs/2506.02457)   |
+|   2025       |      Yosha et al.                    |  Preprint   | [StressTest: Can YOUR Speech LM Handle the Stress?](https://arxiv.org/abs/2505.22765)  |
+|   2025       |      Wei et al.                    |  Preprint   | [Towards Spoken Mathematical Reasoning: Benchmarking Speech-based Models over Multi-faceted Math Problems](https://arxiv.org/abs/2505.15000)  |
+|   2025       |      Fang et al.                    |  Preprint   | [S2SBench: A Benchmark for Quantifying Intelligence Degradation in Speech-to-Speech Large Language Models](https://arxiv.org/abs/2505.14438)  |
+|   2025       |      Bhattacharya et al.                    | Interspeech 2025   | [Benchmarking and Confidence Evaluation of LALMs For Temporal Reasoning](https://arxiv.org/abs/2505.13115)  |
+|   2025       |      Ma et al.                    |  Preprint   | [MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix](https://arxiv.org/abs/2505.13032)  |
+|   2025       |      Yang et al.                    |  DCASE 2025 Audio QA Challenge   | [Multi-Domain Audio Question Answering Toward Acoustic Content Reasoning in The DCASE 2025 Challenge](https://arxiv.org/abs/2505.07365)  |
+|   2025       |      Ahia et al.                    |  Preprint   | [BLAB: Brutally Long Audio Bench](https://arxiv.org/abs/2505.03054)  |
+
 
 </details>
 
@@ -144,6 +166,7 @@ We will release the collection of the surveyed papers and actively maintain it t
 |      2025    |       Lu et al.                   |  Interspeech 2025   | [Speech-IFeval: Evaluating Instruction-Following and Quantifying Catastrophic Forgetting in Speech-Aware Language Models](https://arxiv.org/abs/2505.19037)  |
 |     2025     |       Jiang et al.                   |  Preprint   | [S2S-Arena, Evaluating Speech2Speech Protocols on Instruction Following with Paralinguistic Information](https://arxiv.org/abs/2503.05085)  |
 |  2025        |     Pandey et al.                     |  Preprint    | [SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction Fine-Tuning](https://arxiv.org/abs/2504.09081)  |
+|    2025      |     Hou et al.                    |  Preprint   | [SOVA-Bench: Benchmarking the Speech Conversation Ability for LLM-based Voice Assistant](https://arxiv.org/abs/2506.02457)   |
 
 </details>
 
