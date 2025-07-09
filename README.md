@@ -63,6 +63,7 @@ We will release the collection of the surveyed papers and actively maintain it t
 |    2025      |     Wang et al.                    |  Preprint   | [MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark](https://arxiv.org/abs/2506.04779)   |
 |    2025      |     Hou et al.                    |  Preprint   | [SOVA-Bench: Benchmarking the Speech Conversation Ability for LLM-based Voice Assistant](https://arxiv.org/abs/2506.02457)   |
 |   2025       |      Ahia et al.                    |  Preprint   | [BLAB: Brutally Long Audio Bench](https://arxiv.org/abs/2505.03054)  |
+| 2025 | Ma et al. | ISMIR 2025 | [CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction Following](https://arxiv.org/abs/2506.12285) |
 
 </details>
 
@@ -167,6 +168,7 @@ We will release the collection of the surveyed papers and actively maintain it t
 |     2025     |       Jiang et al.                   |  Preprint   | [S2S-Arena, Evaluating Speech2Speech Protocols on Instruction Following with Paralinguistic Information](https://arxiv.org/abs/2503.05085)  |
 |  2025        |     Pandey et al.                     |  Preprint    | [SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction Fine-Tuning](https://arxiv.org/abs/2504.09081)  |
 |    2025      |     Hou et al.                    |  Preprint   | [SOVA-Bench: Benchmarking the Speech Conversation Ability for LLM-based Voice Assistant](https://arxiv.org/abs/2506.02457)   |
+| 2025 | Ma et al. | ISMIR 2025 | [CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction Following](https://arxiv.org/abs/2506.12285) |
 
 </details>
 
