@@ -11,6 +11,7 @@ With advancements in large audio-language models (LALMs), which enhance large la
 We will release the collection of the surveyed papers and actively maintain it to support ongoing advancements in the field.
 
 ## News
+- [2025/07/17] Our paper collection is now available on on [Hugging Face](https://huggingface.co/collections/zenyn/evaluations-of-large-audio-language-models-lalms-6878fa2d2e66dfb5f75794c2)! We will continue to actively maintain and update it. Stay tuned!
 - [2025/05/23] Our paper is now available on [arXiv](https://arxiv.org/abs/2505.15957)
 
 ## Taxonomy and Paper List
