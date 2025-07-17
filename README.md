@@ -63,7 +63,6 @@ We will release the collection of the surveyed papers and actively maintain it t
 |    2025      |     Wang et al.                    |  Preprint   | [MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark](https://arxiv.org/abs/2506.04779)   |
 |    2025      |     Hou et al.                    |  Preprint   | [SOVA-Bench: Benchmarking the Speech Conversation Ability for LLM-based Voice Assistant](https://arxiv.org/abs/2506.02457)   |
 |   2025       |      Ahia et al.                    |  Preprint   | [BLAB: Brutally Long Audio Bench](https://arxiv.org/abs/2505.03054)  |
-| 2025 | Ma et al. | ISMIR 2025 | [CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction Following](https://arxiv.org/abs/2506.12285) |
 
 </details>
 
