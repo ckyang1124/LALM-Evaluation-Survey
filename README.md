@@ -29,6 +29,8 @@ We will release the collection of the surveyed papers and actively maintain it t
 |   2024       |      Bu et al.                    |  Preprint   | [Roadmap towards Superhuman Speech Understanding using Large Language Models](https://arxiv.org/abs/2410.13268)  |
 |   2025       |      Guo et al.                    |  Preprint   | [DEBATE: A Dataset for Disentangling Textual Ambiguity in Mandarin Through Speech](https://arxiv.org/abs/2506.07502)  |
 |   2025       |      Yosha et al.                    |  Preprint   | [StressTest: Can YOUR Speech LM Handle the Stress?](https://arxiv.org/abs/2505.22765)  |
+|   2025       |      Yang et al. | ACL 2025 (Findings) | [Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Audio-Language Models](https://arxiv.org/abs/2411.14842) |
+
 
 </details>
 
@@ -64,6 +66,8 @@ We will release the collection of the surveyed papers and actively maintain it t
 |    2025      |     Wang et al.                    |  Preprint   | [MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark](https://arxiv.org/abs/2506.04779)   |
 |    2025      |     Hou et al.                    |  Preprint   | [SOVA-Bench: Benchmarking the Speech Conversation Ability for LLM-based Voice Assistant](https://arxiv.org/abs/2506.02457)   |
 |   2025       |      Ahia et al.                    |  Preprint   | [BLAB: Brutally Long Audio Bench](https://arxiv.org/abs/2505.03054)  |
+|   2025       | Wan et al. | ACL 2025 (Main) | [SpeechIQ: Speech Intelligence Quotient Across Cognitive Levels in Voice Understanding Large Language Models](https://aclanthology.org/2025.acl-long.1466/) |
+
 
 </details>
 
@@ -154,6 +158,7 @@ We will release the collection of the surveyed papers and actively maintain it t
 |     2025     |         Kim et al.                 |   Preprint  | [Does Your Voice Assistant Remember? Analyzing Conversational Context Recall and Utilization in Voice Interaction Models](https://arxiv.org/abs/2502.19759)  |
 |   2024       |    Gao et al.                      | Preprint    |  [Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models](https://arxiv.org/abs/2412.05167) |
 |      2025    |       Yan et al.                   |   Preprint  | [URO-Bench: A Comprehensive Benchmark for End-to-End Spoken Dialogue Models](https://arxiv.org/abs/2502.17810)  |
+|   2025       |      Yang et al. | ACL 2025 (Findings) | [Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Audio-Language Models](https://arxiv.org/abs/2411.14842) |
 
 </details>
 
