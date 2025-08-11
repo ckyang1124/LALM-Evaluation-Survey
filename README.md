@@ -210,6 +210,8 @@ We will release the collection of the surveyed papers and actively maintain it t
 |   2025       |         Li et al.                 |   Preprint  |  [AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models](https://arxiv.org/abs/2505.16211) |
 |   2025       |         Song et al.                 |   Preprint  |  [Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models](https://arxiv.org/abs/2505.15406) |
 |   2025       |         Peng et al.                 |   Preprint  |  [JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](https://arxiv.org/abs/2505.17568) |
+| 2025 | Lin et al. | Preprint | [Hidden in the Noise: Unveiling Backdoors in Audio LLMs Alignment through Latent Acoustic Pattern Triggers](https://arxiv.org/abs/2508.02175) |
+| 2025 | Yang et al. | ACL 2025 (Findings) | [Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Audio-Language Models](https://arxiv.org/abs/2411.14842) |
 
 </details>
 
